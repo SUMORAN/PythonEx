@@ -16,6 +16,7 @@ print('\n')
 print('''line1
 	line2
 	line3''')
+
 print('\n')
 
 print(not 1<2)
